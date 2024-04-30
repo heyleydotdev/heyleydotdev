@@ -1,3 +1,5 @@
-👋 Hi, I'm Raveen, a full-stack web developer from Sri Lanka passionate about JavaScript and TypeScript.
+Hi, I’m Raveen, a software developer from Sri Lanka.
 
-I started an eSports clan called Pandora eSports in 2k17, focused on Call of Duty 4, and began hosting and selling servers in 2k18. Since then, I've been hosting game servers [Call of Duty 4, Minecraft, SA-MP], web development, hosting and maintenance. I'm still maintaining [Call of Duty 4 server](https://www.pndes.win/), [Teamspeak server](ts3server://pndes.win), and the [website](https://www.pndes.win/). Check it out if you're interested.
+I work with modern web frameworks, JavaScript, TypeScript, Go, and more, with hands-on experience in designing, deploying, and maintaining scalable systems, including bot scripting, server configuration, hosting, and long-running production environments.
+
+[heyley.dev](https://heyley.dev) / [innox.pro](https://innox.pro)
